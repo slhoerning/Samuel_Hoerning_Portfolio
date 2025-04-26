@@ -11,7 +11,9 @@ My dynamic skill set, commitment to customer-centric solutions, and passion for 
 You can find me on [LinkedIn](www.linkedin.com/in/samuel-hoerning-074481266) or samhoerning_ on Instagram.
 
 ### Education 
-[Fill in Education here]
+Loyola University Marlyand B.S.
+Major: Biohealth with a concentration in Biomedical Commercialization
+Minor: Management and Consulting
 ***
 ### Projects
 
@@ -19,20 +21,21 @@ You can find me on [LinkedIn](www.linkedin.com/in/samuel-hoerning-074481266) or 
  - Project 1 Summary:
  Created a Microsoft Excel grade calculator that automatically predicts course grades using weighted assignments and visual data charts to simplify academic performance tracking.
 
-[Project 1 Image]
- - Initial Project Idea:
+![Project 1 Image](Portfolio_Images/Project_1_GradeCalc.png)
+
+**Initial Project Idea:**
 I came up with this project to simplify tracking grades across multiple courses. I set out to solve the problem of manually calculating final grades, which can be confusing and time-consuming, especially with weighted assignments.
 
- - Tools I Used:
+**Tools I Used:**
 I used Microsoft Excel to build the grade calculator, incorporating formulas, percentage calculations, and pie charts to visually represent assignment weights and scores.
 
- - Challenges I Faced:
+**Challenges I Faced:**
 One challenge was ensuring the accuracy of weighted scores and correctly linking assignment weights to the final grade prediction. I overcame this by double-checking formulas and testing the calculator with sample data.
 
- - Other Resources:
+**Other Resources:**
 I used online Excel tutorials to refine chart designs and formula building. I did not collaborate directly with anyone but referenced sample grade book templates for inspiration.
 
- - Result:
+**Result:**
 I set out to create a user-friendly, automated grade tracker, and I achieved it. If I were to improve it, I would add conditional formatting to alert users when their grade drops below a certain threshold.
 ***
 #### Project 2 Title
