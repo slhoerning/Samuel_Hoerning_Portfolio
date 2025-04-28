@@ -8,7 +8,7 @@ With skills in Microsoft 365, Data Analysis, Product Marketing, and Team Leaders
 
 My dynamic skill set, commitment to customer-centric solutions, and passion for healthcare innovation position me as a valuable asset. In my spare time, I like to stay active with Rowing workouts and explore new culinary recipes.
 
-You can find me on [LinkedIn](www.linkedin.com/in/samuel-hoerning-074481266) or samhoerning_ on Instagram.
+You can find me on [LinkedIn](https://www.linkedin.com/in/samuel-hoerning-074481266/) or samhoerning_ on Instagram.
 
 ### Education 
 Loyola University Marlyand B.S.
